@@ -13,8 +13,6 @@ import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.Enumeration;
 
-import org.apache.http.conn.util.InetAddressUtils;
-
 import android.content.Context;
 import android.text.TextUtils;
 import android.util.Log;
@@ -250,7 +248,8 @@ public class MelonCommunicate extends Thread
                 {
                     InetAddress ip = inet.nextElement();
                     if (!ip.isLoopbackAddress()
-                        && InetAddressUtils.isIPv4Address(ip.getHostAddress()))
+//                        && InetAddressUtils.isIPv4Address(ip.getHostAddress())
+                    )
                     {
                         IPs.add(ip.getHostAddress());
                     }

@@ -3,13 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnyShareOfAndroid.iml" filepath="$PROJECT_DIR$/AnyShareOfAndroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RadarScanView/RadarScanView.iml" filepath="$PROJECT_DIR$/RadarScanView/RadarScanView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/httpServer/httpServer.iml" filepath="$PROJECT_DIR$/httpServer/httpServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p2pmanager/p2pmanager.iml" filepath="$PROJECT_DIR$/p2pmanager/p2pmanager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/randomtextview/randomtextview.iml" filepath="$PROJECT_DIR$/randomtextview/randomtextview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rippleoutlayout/rippleoutlayout.iml" filepath="$PROJECT_DIR$/rippleoutlayout/rippleoutlayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rippleview/rippleview.iml" filepath="$PROJECT_DIR$/rippleview/rippleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RadarScanView/AnyShareOfAndroid.RadarScanView.iml" filepath="$PROJECT_DIR$/.idea/modules/RadarScanView/AnyShareOfAndroid.RadarScanView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnyShareOfAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnyShareOfAndroid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpServer/AnyShareOfAndroid.httpServer.iml" filepath="$PROJECT_DIR$/.idea/modules/httpServer/AnyShareOfAndroid.httpServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/p2pmanager/AnyShareOfAndroid.p2pmanager.iml" filepath="$PROJECT_DIR$/.idea/modules/p2pmanager/AnyShareOfAndroid.p2pmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/randomtextview/AnyShareOfAndroid.randomtextview.iml" filepath="$PROJECT_DIR$/.idea/modules/randomtextview/AnyShareOfAndroid.randomtextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rippleoutlayout/AnyShareOfAndroid.rippleoutlayout.iml" filepath="$PROJECT_DIR$/.idea/modules/rippleoutlayout/AnyShareOfAndroid.rippleoutlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rippleview/AnyShareOfAndroid.rippleview.iml" filepath="$PROJECT_DIR$/.idea/modules/rippleview/AnyShareOfAndroid.rippleview.iml" />
     </modules>
   </component>
 </project>

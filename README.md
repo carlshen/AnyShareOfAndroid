@@ -3,7 +3,7 @@
 * 在局域网内进行文件（发送方的app、图片等文件，项目中只是进行了手机中的第三方app和手机图片的）的传输。    
 * 如果没有接收方建立热点，发送方接入热点，然后进行文件的传输。
 * 添加android与pc之间的文件传输，通过在android设备中实现http server来完成（这样不需要在pc中安装应用，只需要浏览器就可以方便完成操作）
-
+* 感谢原作者的分享，我已经升级到Androidx，sdk29，编译通过。
 
 
 ## 实现原理：
@@ -33,4 +33,4 @@
 * compile project(':httpServer') 作者[本人](https://github.com/gpfduoduo/HttpServerOnAndroid/)
 
 ## 感谢
-杨蔚 及其 儿子 
+原作者的分享

@@ -4,11 +4,11 @@
     android:layout_height="match_parent"
     tools:context="com.guo.duoduo.anyshareofandroid.ui.setting.fragment.ReceivedApp">
 
-    <android.support.v7.widget.RecyclerView
+    <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/received_recyclerview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_gravity="center"></android.support.v7.widget.RecyclerView>
+        android:layout_gravity="center"></androidx.recyclerview.widget.RecyclerView>
 
     <TextView
         android:id="@+id/received_textview"
